@@ -1,0 +1,7 @@
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\bin\Debug\transleteHelperApp.exe.config
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\bin\Debug\transleteHelperApp.exe
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\bin\Debug\transleteHelperApp.pdb
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\obj\Debug\transleteHelperApp.csprojAssemblyReference.cache
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\obj\Debug\transleteHelperApp.csproj.CoreCompileInputs.cache
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\obj\Debug\transleteHelperApp.exe
+C:\Users\Nerojeck\source\repos\transleteHelperApp\transleteHelperApp\obj\Debug\transleteHelperApp.pdb
